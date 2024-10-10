@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="58jqvZeZaStQ" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Alcance del proyecto]]></stringProperty>
+    <markdownProperty name="comments" category="general"><![CDATA[El proyecto consiste en digitalizar los procesos de negocio de la tienda "Cerezos", tienda  dedicada a la venta de ropa y accesorios femeninos . El objetivo es optimizar la gestión interna y expandir su presencia en línea mediante el desarrollo de sistemas digitales para gestionar inventarios, nóminas y crear una plataforma de comercio electrónico]]></markdownProperty>
+  </properties>
+  <children>
+    <child id="3jFmJkJ3cmHK"/>
+  </children>
+</object>

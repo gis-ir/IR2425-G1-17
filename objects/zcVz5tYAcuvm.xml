@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="zcVz5tYAcuvm" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Personas participantes]]></stringProperty>
+    <markdownProperty name="comments" category="general"><![CDATA[- Luz Ceballos
+- Miguel Mir
+- Ignacio Martínez
+- Miguel Regidor
+- Francisco Rodríguez
+- Juan José Cardesa Sosa
+]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

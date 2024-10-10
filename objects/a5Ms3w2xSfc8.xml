@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="a5Ms3w2xSfc8" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Glosario de términos del dominio del problema]]></stringProperty>
+    <markdownProperty name="comments" category="general"><![CDATA[-	**Inventario manual:** Proceso de contabilización física de productos en la tienda sin el uso de sistemas digitales.
+-	**Nómina manual:** Cálculo y pago de salarios de manera no automatizada.
+-	**Comercio electrónico:** Venta de productos a través de una plataforma en línea.
+]]></markdownProperty>
+  </properties>
+  <children>
+    <child id="5mzwtAwXBpQD"/>
+  </children>
+</object>

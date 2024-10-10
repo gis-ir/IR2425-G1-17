@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="nufsn8QCbGHV" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Fortalezas de la situación actual]]></stringProperty>
+    <markdownProperty name="comments" category="general"><![CDATA["Cerezos" tiene una larga trayectoria en el mercado , lo que le otorga una base sólida de clientes leales.]]></markdownProperty>
+  </properties>
+  <children>
+    <child id="35XVBr7zfmPJ"/>
+  </children>
+</object>

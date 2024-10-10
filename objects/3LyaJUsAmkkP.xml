@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="3LyaJUsAmkkP" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Objetivos del proyecto]]></stringProperty>
+    <markdownProperty name="comments" category="general"><![CDATA[1.	Digitalizar los procesos de inventario y nómina de "Cerezos".
+2.	Desarrollar una tienda en línea para facilitar las ventas.
+3.	Reducir la carga operativa manual para mejorar la eficiencia del negocio.]]></markdownProperty>
+  </properties>
+  <children>
+    <child id="5rUCDkNKyPG5"/>
+  </children>
+</object>
