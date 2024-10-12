@@ -6,8 +6,7 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[Actualmente, "Cerezos" gestiona su inventario y nómina de manera manual, lo cual es ineficiente y consume mucho tiempo.
-No tiene presencia en línea, lo que limita su alcance de mercado.]]></markdownProperty>
+    <markdownProperty name="text" category="detail"><![CDATA[Actualmente, "Cerezos" gestiona su inventario y nómina de manera manual, lo cual es ineficiente y consume mucho tiempo. No tiene presencia en línea, lo que limita su alcance de mercado. Este problema afecta la capacidad del negocio para crecer y aumentar su base de clientes, además de que reduce la eficiencia operativa.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
