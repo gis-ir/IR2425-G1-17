@@ -11,5 +11,7 @@
     <document id="ers"/>
     <document id="das"/>
   </documents>
-  <xsl-templates/>
+  <xsl-templates>
+    <xsl-template name="default"/>
+  </xsl-templates>
 </project>

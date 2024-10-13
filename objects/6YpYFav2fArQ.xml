@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="6YpYFav2fArQ" classes="meeting" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Reunión 2]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="detail">2024-10-03</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <timeProperty name="time" category="detail">19:00:00</timeProperty>
+    <stringProperty name="place" category="detail"><![CDATA[Skype]]></stringProperty>
+    <traceProperty name="attenders" category="detail" acceptedTargets="stakeholder" traceType=":Proteus-information-source">
+      <trace target="7Bsb7cYuXmpL" traceType=":Proteus-information-source"/>
+      <trace target="7Ympck6myBJ3" traceType=":Proteus-information-source"/>
+      <trace target="3gVsQgzzPM3C" traceType=":Proteus-information-source"/>
+      <trace target="4YzxYp43m4jA" traceType=":Proteus-information-source"/>
+    </traceProperty>
+    <markdownProperty name="results" category="results"><![CDATA[Esta reunión se da ya pasada la exposición en clase del proyecto, lo que tomamos como raíz para comentarle a la dueña algunas de las áreas que se podrían digitalizar de su negocio para facilitarle el trabajo.
+Ella compartió con nosotros su opinión y nos dijo las que le parecían más útiles y menos útiles, descartando algunas de ellas que cubrian procesos más triviales para centrarnos en lo fundamental.
+Obteniendo como conclusión todos los objetivos que hemos planteado para el proyecto.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

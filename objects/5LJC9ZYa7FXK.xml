@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="5LJC9ZYa7FXK" classes="meeting" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Reunión 1]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="detail">2024-09-19</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <timeProperty name="time" category="detail">19:00:00</timeProperty>
+    <stringProperty name="place" category="detail"><![CDATA[Skype]]></stringProperty>
+    <traceProperty name="attenders" category="detail" acceptedTargets="stakeholder" traceType=":Proteus-information-source">
+      <trace target="4nSy5BkKt9Nh" traceType=":Proteus-information-source"/>
+      <trace target="4hq3iAr7S5Nz" traceType=":Proteus-information-source"/>
+      <trace target="4YzxYp43m4jA" traceType=":Proteus-information-source"/>
+      <trace target="7Bsb7cYuXmpL" traceType=":Proteus-information-source"/>
+      <trace target="3gVsQgzzPM3C" traceType=":Proteus-information-source"/>
+      <trace target="7Ympck6myBJ3" traceType=":Proteus-information-source"/>
+    </traceProperty>
+    <markdownProperty name="results" category="results"><![CDATA[Esta es la primera reunión con el cliente, por tanto, procuramos estar todos los miembros del grupo para asegurarnos de que no quede nada sin hablar. A lo largo de esta reunión, Luz nos expuso los problemas que encuentra en su tienda, tanto a nivel tecnológico como del día a día.
+Esto nos ha permitido sacar unas primeras conclusiones de algunas cosas que podría necesitar y que le expondremos la semana que viene para saber su opinión.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
