@@ -7,8 +7,10 @@
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="text" category="detail"><![CDATA[- **Proceso de venta en línea**: Los clientes podrán comprar a través de una plataforma de comercio electrónico.  
-- **Automatización de inventario**: Se implementará un sistema que permita controlar el inventario en tiempo real y realizar pedidos a los proveedores de forma automática según el stock disponible.  
-- **Automatización de pagos de nómina**: Los pagos a los empleados serán calculados y procesados automáticamente en función de su jornada laboral y tareas asignadas.]]></markdownProperty>
+
+- **Automatización de pagos de nómina**: Los pagos a los empleados serán calculados y procesados automáticamente en función de su jornada laboral y tareas asignadas.
+
+- **Automatización de inventario**: Se implementará un sistema que permita controlar el inventario en tiempo real y realizar pedidos a los proveedores de forma automática según el stock disponible.  ]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
