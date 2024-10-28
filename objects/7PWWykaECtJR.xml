@@ -8,6 +8,7 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="text" category="detail"><![CDATA[### Encargados y Clientes  
 
+- **Administrador**: Persona encargada de controlar la tienda a todos los niveles, tanto en tienda física como online.
 - **Encargado de inventario**: Responsable de la contabilización manual de los productos.  
 - **Encargado de nómina**: Persona encargada de realizar los cálculos y pagos manuales de los salarios.  
 - **Clientes**: Personas que compran productos directamente en la tienda física.]]></markdownProperty>

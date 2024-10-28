@@ -9,7 +9,8 @@
     <markdownProperty name="text" category="detail"><![CDATA[- **Administrador**: Persona encargada de controlar la tienda a todos los niveles, tanto en tienda física como online.  
 - **Proveedor**: Entidad que suministra inventario a la tienda de manera automatizada según las necesidades del negocio.  
 - **Empleado**: Persona que trabaja en la tienda, cuya jornada y nómina serán gestionadas automáticamente.  
-- **Cliente**: Persona que compra en la tienda, ya sea física u online.]]></markdownProperty>
+- **Cliente**: Persona que compra en la tienda, ya sea física u online.
+- **Sistema**: Plataforma automatizada de gestión y administración.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

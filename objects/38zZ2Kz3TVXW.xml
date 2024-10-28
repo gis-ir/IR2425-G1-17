@@ -9,7 +9,8 @@
     <markdownProperty name="text" category="detail"><![CDATA[
 - **Contabilización manual del inventario**: Se realiza con regularidad, pero sin sistemas automatizados, lo que consume mucho tiempo.  
 - **Pago manual de nóminas**: Los pagos se realizan de manera manual, lo que genera ineficiencias y posibles errores.  
-- **Venta física en tienda**: Todo el proceso de venta se realiza en la tienda física sin una alternativa en línea, lo que limita el alcance.]]></markdownProperty>
+- **Venta física en tienda**: Todo el proceso de venta se realiza en la tienda física sin una alternativa en línea, lo que limita el alcance.
+- **Gestión de horarios manual**: Se realizan trámites constantes, y sin software que lo controle el número de conflictos es excesivamente alto, lo que conlleva a continuos cambios y revisiones.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
