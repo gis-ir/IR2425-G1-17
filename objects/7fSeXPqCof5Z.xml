@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="7fSeXPqCof5Z" classes="meeting" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Reunión 3]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="detail">2024-10-24</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <timeProperty name="time" category="detail">19:00:00</timeProperty>
+    <stringProperty name="place" category="detail"><![CDATA[Discord]]></stringProperty>
+    <traceProperty name="attenders" category="detail" acceptedTargets="stakeholder" traceType=":Proteus-information-source">
+      <trace target="4YzxYp43m4jA" traceType=":Proteus-information-source"/>
+      <trace target="4nSy5BkKt9Nh" traceType=":Proteus-information-source"/>
+      <trace target="4hq3iAr7S5Nz" traceType=":Proteus-information-source"/>
+      <trace target="3gVsQgzzPM3C" traceType=":Proteus-information-source"/>
+      <trace target="7Ympck6myBJ3" traceType=":Proteus-information-source"/>
+      <trace target="7Bsb7cYuXmpL" traceType=":Proteus-information-source"/>
+    </traceProperty>
+    <markdownProperty name="results" category="results"><![CDATA[Profundizamos en los procesos de negocios actuales con el objetivo de realizar los modelos para dichos procesos. Cada participante expuso los procesos de negocio a implantar, recibiendo un feedback por parte del cliente.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
