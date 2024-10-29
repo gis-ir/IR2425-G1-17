@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="6htHFj8smziF" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Subsistema de gestión de pago de nóminas]]></stringProperty>
+    <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
