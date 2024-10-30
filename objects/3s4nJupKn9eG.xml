@@ -4,5 +4,11 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Requisitos de reglas de negocio del sistema]]></stringProperty>
     <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
   </properties>
-  <children/>
+  <children>
+    <child id="4pm5FZ3HYAQA"/>
+    <child id="5cALJW5zP7Bg"/>
+    <child id="4wdwzT74stcH"/>
+    <child id="3gsnddjmbgUN"/>
+    <child id="3974UfKdkxyx"/>
+  </children>
 </object>
