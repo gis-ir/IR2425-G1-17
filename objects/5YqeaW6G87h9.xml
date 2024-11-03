@@ -1,10 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="5YqeaW6G87h9" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Casos de uso del sistema de generación de estadisticas de venta]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Casos de uso del sistema de generación de análisis de ventas]]></stringProperty>
     <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
   </properties>
   <children>
+    <child id="76Y3V2uk2X3D"/>
     <child id="6WJxjyeqqJZt"/>
+    <child id="sza2CZ4sdZqB"/>
+    <child id="fBZPyVphgiid"/>
+    <child id="dhTWbpHDZKQi"/>
   </children>
 </object>
