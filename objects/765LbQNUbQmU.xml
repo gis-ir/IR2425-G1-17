@@ -8,7 +8,7 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <stringProperty name="plural-form" category="detail"><![CDATA[]]></stringProperty>
     <stringProperty name="synonyms" category="detail"><![CDATA[]]></stringProperty>
-    <markdownProperty name="description" category="detail"><![CDATA[Cálculo y pago de salarios de manera no automatizada.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Método de cálculo y pago de salarios que se realiza sin apoyo de herramientas automatizadas, lo que puede llevar a errores en los pagos, retrasos y una carga administrativa innecesaria.]]></markdownProperty>
     <fileProperty name="image" category="detail" tooltip="file-info"><![CDATA[]]></fileProperty>
     <integerProperty name="width" category="detail" tooltip="width-info">50</integerProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
