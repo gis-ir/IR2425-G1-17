@@ -6,7 +6,9 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[El proyecto consiste en digitalizar los procesos de negocio de la tienda "Cerezos", tienda dedicada a la venta de ropa y accesorios femeninos . Con esto en mente, nos pusimos en contacto con su propietaria para encontrar solución a los defectos de su sistema informático. Tras realizar una entrevista inicial, se llegaron a una serie de conclusiones sobre los problemas a abordar y se decidió crear un sistema desde cero con las funcionalidades que realmente se necesitan.]]></markdownProperty>
+    <markdownProperty name="text" category="detail"><![CDATA[El proyecto consiste en digitalizar los procesos de negocio de la tienda **"Cerezos"**, dedicada a la venta de ropa y accesorios femeninos. Con esto en mente, nos pusimos en contacto con su propietaria para encontrar una solución a los defectos de su sistema informático actual.   
+
+Tras una entrevista inicial, se identificaron los problemas a abordar y se decidió crear un sistema desde cero que integre únicamente las funcionalidades necesarias para mejorar la operación del negocio.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
