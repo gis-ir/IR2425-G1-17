@@ -6,10 +6,10 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <fileProperty name="file" category="detail" tooltip="file-info"><![CDATA[us-logo.jpg]]></fileProperty>
+    <fileProperty name="file" category="detail" tooltip="file-info"><![CDATA[DiagramaGeneracionEstadisticasAutomatizado.drawio.png]]></fileProperty>
     <urlProperty name="url" category="detail"><![CDATA[]]></urlProperty>
-    <integerProperty name="width" category="detail" tooltip="width-info">20</integerProperty>
-    <markdownProperty name="description" category="detail"><![CDATA[Diagrama UML de procesos de recopilacion de datos para tomar decisiones]]></markdownProperty>
+    <integerProperty name="width" category="detail" tooltip="width-info">80</integerProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Diagrama del proceso de generación de estadísticas de venta]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
