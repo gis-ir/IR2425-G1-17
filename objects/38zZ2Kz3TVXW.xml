@@ -6,11 +6,17 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[
-- **Contabilización manual del inventario**: El inventario se contabiliza manualmente con bastante regularidad, lo que implica realizar conteos físicos de los productos y registrar cantidadesen el libro de inventario. Sin un sistema automatizado que facilite estos registros, este proceso consume gran parte del tiempo y esfuerzo de los empleados, y pueden producirse problemas debido al error humano La falta de actualización en tiempo real dificulta la planificación de pedidos y provoca roturas de stock o exceso de productos almacenados.
-- **Pago manual de nóminas**: La administración de nóminas es gestionada manualmente, lo que implica calcular y realizar cada pago individualmente para cada empleado, teniendo en cuenta horarios, horas extras, además de posibles extras por ventas, etc. Este método de gestión es propenso a errores de cálculo y posibles omisiones que pueden afectar los pagos. Además, es un proceso que le demanda tiempo a la administración lo cual tiene un impacto en la eficiencia del negocio.
-- **Venta física en tienda**: Todas las ventas y procesos de atención al cliente se llevan a cabo en un entorno físico, sin contar con una plataforma en línea que facilite la compra online. Esta limitación restringe el alcance del negocio a clientes que solo pueden visitar la tienda en persona, reduciendo la posibilidad de captar nueva clientela limitando el crecimiento del negocio. La dependencia exclusiva de ventas presenciales también expone a la tienda a variaciones de ingresos en función de la llegada de clientes y dificulta el análisis de datos de compra para futuras estrategias comerciales.
-- **Gestión de horarios manual**: La programación de horarios laborales se gestiona de forma manual, lo cual requiere una considerable inversión de tiempo en organizar, ajustar y comunicar turnos a los empleados. Además de que una programación manual puede derivar en que surjan diversos conflictos ocasionando reprogramaciones y cambios en el horario que pueden derivar en desajustes en la distribución del trabajo que reduzcan la productividad y generen crispación en los empleados.]]></markdownProperty>
+    <markdownProperty name="text" category="detail"><![CDATA[1. **Contabilización Manual del Inventario**:  
+   El inventario de "Cerezos" se controla de forma manual y se revisa periódicamente sin el apoyo de sistemas automatizados. Este proceso consume **mucho tiempo** y requiere una **dedicación constante** por parte del personal, aumentando el riesgo de errores y falta de precisión en los niveles de stock.  
+
+2. **Pago Manual de Nóminas**:  
+   Los pagos a los empleados se realizan manualmente, lo que genera **ineficiencias** y **posibles errores** en el cálculo de salarios. La falta de un sistema automatizado provoca que el proceso sea lento y que haya mayor probabilidad de retrasos en los pagos, lo cual puede afectar la motivación y satisfacción del personal.  
+
+3. **Venta Física en Tienda**:  
+   Todas las ventas se realizan en la tienda física, sin una **alternativa en línea**. Esto limita el alcance de "Cerezos" únicamente a los clientes locales que pueden visitar la tienda, restringiendo las oportunidades de crecimiento y expansión del negocio en un mercado digital.  
+
+4. **Gestión de Horarios Manual**:  
+   La asignación y gestión de los horarios de los empleados se realiza de forma manual, lo que resulta en un **alto número de conflictos** y **continuos ajustes** en los turnos. Sin un software de control, es común que haya errores en la planificación, lo cual afecta la eficiencia operativa y requiere revisiones frecuentes.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

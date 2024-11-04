@@ -2,12 +2,16 @@
 <object id="3bSx5rx9FWsD" classes="software-requirement general-requirement" acceptedChildren="general-requirement" acceptedParents=":Proteus-any">
   <properties>
     <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[RQG-]]></prefix><number>003</number><suffix><![CDATA[]]></suffix></codeProperty>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[LLevar a cabo transacciones]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Requisito general]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-30</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[El sistema deberá poder estar asociado a una cuenta bancaria de la empresa y efectuar las transacciones necesarias para el pago de nóminas.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[El sistema deberá **gestionar tanto las ventas físicas como las ventas en línea de manera integrada**. Esto incluye:  
+  - La capacidad de **sincronizar el inventario en tiempo real** entre la tienda física y la tienda en línea para evitar discrepancias.  
+  - **Registrar las transacciones** de ambos canales de venta de forma centralizada, lo que permite un **seguimiento y análisis de ventas consolidado**.  
+  - **Facilitar la gestión de pedidos** desde la tienda en línea, incluyendo el procesamiento de pagos y la generación de órdenes de envío.  
+  - Proveer una **interfaz de usuario intuitiva** para el personal de ventas y los clientes en línea, mejorando la experiencia de compra y facilitando la operación del negocio.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">high</enumProperty>
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">medium</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>

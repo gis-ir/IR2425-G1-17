@@ -6,7 +6,7 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[Actualmente, "Cerezos" no dispone de un sistema moderno de hardware para la automatización de procesos, lo que hace que dependan de registros manuales.]]></markdownProperty>
+    <markdownProperty name="text" category="detail"><![CDATA[Actualmente, **"Cerezos" no cuenta con un sistema de hardware moderno** para soportar la automatización de sus procesos. La tienda depende de **registros manuales y dispositivos básicos**, como una caja registradora estándar y una computadora sin software especializado para el negocio. Esta falta de infraestructura limita la capacidad de implementar sistemas de **gestión de inventario**, **procesamiento de pagos automatizados** y **análisis de ventas**, lo que reduce la eficiencia y precisión en las operaciones diarias.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

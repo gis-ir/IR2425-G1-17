@@ -6,7 +6,7 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[No existe ningún software que gestione el inventario, las ventas, los pagos de nómina ni la relación con proveedores.]]></markdownProperty>
+    <markdownProperty name="text" category="detail"><![CDATA[Actualmente, **"Cerezos" no dispone de software especializado** para gestionar sus operaciones clave. La tienda opera sin herramientas de **gestión de inventario**, **registro de ventas**, **procesamiento de pagos de nómina** ni **gestión de proveedores**. Esta falta de automatización obliga al personal a realizar tareas manuales que consumen mucho tiempo y aumentan el riesgo de errores. Además, la ausencia de un **sistema de ventas en línea** limita el alcance de mercado de la tienda, restringiendo su crecimiento y capacidad de competir en el entorno digital actual.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
