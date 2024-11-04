@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="6FzPmmwN3LHx" classes="software-requirement system-actor" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+<object id="8JaMLgqrvzU7" classes="software-requirement system-actor" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
-    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[ACT-]]></prefix><number>001</number><suffix><![CDATA[]]></suffix></codeProperty>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Administrador]]></stringProperty>
-    <dateProperty name=":Proteus-date" category="general">2024-10-30</dateProperty>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[ACT-]]></prefix><number>002</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Empleado]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-11-04</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
       <trace target="4nSy5BkKt9Nh" traceType=":Proteus-author"/>
@@ -11,13 +11,13 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <traceProperty name="inherits-from" category="detail" acceptedTargets="system-actor" traceType=":Proteus-dependency"/>
     <traceProperty name="participates-in" category="detail" acceptedTargets="use-case" traceType=":Proteus-dependency">
-      <trace target="4Snfo3yMWVSP" traceType=":Proteus-dependency"/>
-      <trace target="4SWWHSpvuVAu" traceType=":Proteus-dependency"/>
-      <trace target="4A9tqU33q3Ny" traceType=":Proteus-dependency"/>
-      <trace target="6bvfpBZoverg" traceType=":Proteus-dependency"/>
       <trace target="WZnFmr8wJpvb" traceType=":Proteus-dependency"/>
+      <trace target="5n7wQURn9yfo" traceType=":Proteus-dependency"/>
+      <trace target="MvKYYSvN27Jk" traceType=":Proteus-dependency"/>
+      <trace target="84vzfKQK3d7j" traceType=":Proteus-dependency"/>
+      <trace target="7J75BX5dhmGb" traceType=":Proteus-dependency"/>
     </traceProperty>
-    <markdownProperty name="description" category="detail"><![CDATA[Este actor representa al usuario con responsabilidades de supervisión y coordinación de los empleados y sus funciones en la tienda.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Este actor representa al usuario final del sistema que interactúa principalmente con las funciones orientadas a su experiencia laboral en la tienda.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
