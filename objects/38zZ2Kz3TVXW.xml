@@ -7,7 +7,7 @@
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="text" category="detail"><![CDATA[1. **Contabilización Manual del Inventario**:  
-   El inventario de "Cerezos" se controla de forma manual y se revisa periódicamente sin el apoyo de sistemas automatizados. Este proceso consume **mucho tiempo** y requiere una **dedicación constante** por parte del personal, aumentando el riesgo de errores y falta de precisión en los niveles de stock.  
+   El inventario de "Cerezos" se registra de forma manual en el libro de inventario y se revisa periódicamente sin el apoyo de sistemas automatizados. Este proceso consume **mucho tiempo** y requiere una **dedicación constante** por parte del personal, aumentando el riesgo de errores y falta de precisión en los niveles de stock.  
 
 2. **Pago Manual de Nóminas**:  
    Los pagos a los empleados se realizan manualmente, lo que genera **ineficiencias** y **posibles errores** en el cálculo de salarios. La falta de un sistema automatizado provoca que el proceso sea lento y que haya mayor probabilidad de retrasos en los pagos, lo cual puede afectar la motivación y satisfacción del personal.  
