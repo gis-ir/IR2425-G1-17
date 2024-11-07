@@ -6,13 +6,13 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[- **Proceso de venta en línea**: Los clientes podrán comprar a través de una plataforma de comercio electrónico.  
+    <markdownProperty name="text" category="detail"><![CDATA[- **Proceso de Venta en Línea** : Los clientes podrán **comprar productos a través de una plataforma de comercio electrónico**. La plataforma permitirá a los usuarios navegar por el catálogo, agregar productos al carrito, realizar pagos en línea y gestionar envíos. Este proceso amplía el alcance del negocio al permitir la venta de productos sin limitación geográfica.  
 
-- **Automatización de pagos de nómina**: Los pagos a los empleados serán calculados y procesados automáticamente en función de su jornada laboral y tareas asignadas.
+- **Automatización de Pagos de Nómina**: Los **pagos a los empleados serán calculados y procesados automáticamente** en función de las horas trabajadas y tareas asignadas. Este sistema de automatización reducirá errores, optimizará la eficiencia y garantizará la puntualidad en los pagos. Además, permitirá a la empresa llevar un registro preciso de los pagos realizados y las jornadas laborales.  
 
-- **Automatización de inventario**: Se implementará un sistema que permita controlar el inventario en tiempo real y realizar pedidos a los proveedores de forma automática según el stock disponible. 
+- **Automatización de Inventario**: Se implementará un **sistema de control de inventario en tiempo real** que monitoreará la disponibilidad de productos en ambas plataformas de venta (física y en línea). Cuando el stock alcance un nivel mínimo, el sistema generará pedidos automáticos a los proveedores, evitando desabastecimientos y manteniendo un flujo constante de productos.  
 
-- **Sistema de gestión de horarios**: Se implementará un sistema que permita a los empleados solicitar turnos desde una app o portal web, donde se validan automáticamente según disponibilidad y reglas predefinidas, con aprobación automática cuando sea posible. El sistema registrará las horas trabajadas y generará reportes automáticos, optimizando tanto la comunicación como la eficiencia del proceso. ]]></markdownProperty>
+- **Sistema de Gestión de Horarios**: Se introducirá un sistema que permita a los empleados **solicitar turnos y gestionar sus horarios desde una app o portal web**. Este sistema verificará la disponibilidad de turnos y aplicará reglas predefinidas para la asignación, aprobando automáticamente las solicitudes cuando sea posible. Además, registrará las horas trabajadas y generará reportes automáticos, mejorando la comunicación, la precisión y la eficiencia en la administración de los turnos laborales.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

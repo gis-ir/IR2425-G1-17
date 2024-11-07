@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="4MxZAFR4i8Ct" classes="software-requirement general-requirement" acceptedChildren="general-requirement" acceptedParents=":Proteus-any">
+<object id="3aADDMEJXXSM" classes="software-requirement general-requirement" acceptedChildren="general-requirement" acceptedParents=":Proteus-any">
   <properties>
-    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[RQG-]]></prefix><number>008</number><suffix><![CDATA[]]></suffix></codeProperty>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Guardado del resguardo de pago]]></stringProperty>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[RQG-]]></prefix><number>010</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Registro de transacciones]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-11-04</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[Una vez todo confirmado el sistema tras efectuar la transacción deberá almacenar un resguardo del pago.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[El sistema deberá **registrar todas las transacciones de venta** en una base de datos centralizada, permitiendo un seguimiento y análisis consolidado de las ventas en ambos canales.  ]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">medium</enumProperty>
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">medium</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
