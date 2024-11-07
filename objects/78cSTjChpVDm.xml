@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="78cSTjChpVDm" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Subsistema de gestión de ventas online]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Subsistema de gestión de ventas ]]></stringProperty>
     <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
   </properties>
   <children>
