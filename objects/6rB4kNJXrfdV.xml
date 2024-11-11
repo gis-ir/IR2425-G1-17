@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="3PT2JnYBNsiw" classes="software-requirement functional-requirement" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+<object id="6rB4kNJXrfdV" classes="software-requirement functional-requirement" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
-    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[RQF-]]></prefix><number>004</number><suffix><![CDATA[]]></suffix></codeProperty>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Actualización Automática de Inventario]]></stringProperty>
-    <dateProperty name=":Proteus-date" category="general">2024-10-30</dateProperty>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[FRQ-]]></prefix><number>001</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Generación de Recibos]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-11-11</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
       <trace target="7Bsb7cYuXmpL" traceType=":Proteus-author"/>
     </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[El sistema deberá actualizar el inventario automáticamente cada vez que se realice una venta en cualquiera de los canales (tienda física o en línea), reflejando la cantidad disponible en tiempo real.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[El sistema deberá generar un recibo de compra al completar cada transacción, ya sea en tienda física o en línea, y almacenarlo en el historial de ventas para futuras referencias y auditorías.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
