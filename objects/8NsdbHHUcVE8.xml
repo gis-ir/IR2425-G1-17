@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="8NsdbHHUcVE8" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[specific data]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[   - **ID de Pedido**: Identificación única del pedido al proveedor.  
+   - **Proveedor Asociado**: Nombre e ID del proveedor.  
+   - **Fecha del Pedido**: Fecha en que se realizó el pedido.  
+   - **Productos Solicitados**: Lista de productos requeridos en el pedido.  
+   - **Cantidad de Cada Producto**: Cantidad de unidades solicitadas.  
+   - **Estado del Pedido**: Estado actual (en proceso, enviado, recibido).  
+   - **Fecha de Entrega Estimada**: Fecha esperada de recepción del pedido.  
+]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
