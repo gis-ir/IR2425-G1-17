@@ -9,7 +9,7 @@
     <fileProperty name="file" category="detail" tooltip="file-info"><![CDATA[Screenshot 2024-11-05 101948.png]]></fileProperty>
     <urlProperty name="url" category="detail"><![CDATA[]]></urlProperty>
     <integerProperty name="width" category="detail" tooltip="width-info">80</integerProperty>
-    <markdownProperty name="description" category="detail"><![CDATA[Diagrama UML del  proceso de consulta del de inventario]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Diagrama BPMN del  proceso de consulta del de inventario]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
