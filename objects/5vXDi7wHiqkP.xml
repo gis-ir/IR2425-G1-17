@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="5vXDi7wHiqkP" classes="general-traceable-object figure" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Copia de Figura remota]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Proceso de modificacion de inventario]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-27</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
