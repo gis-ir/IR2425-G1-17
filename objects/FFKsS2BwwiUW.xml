@@ -6,7 +6,8 @@
    - **Nombre Completo**: Nombre y apellidos del cliente.  
    - **Correo Electrónico**: Para recibir confirmaciones y notificaciones.  
    - **Teléfono**: Número de contacto.  
-   - **Dirección de Entrega**: Domicilio completo para envíos.  
+   - **Dirección de Entrega**: Domicilio completo para envíos. 
+   - **Historial de pedidos**: Lista de pedidos anteriores
   ]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
