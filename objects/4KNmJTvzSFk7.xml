@@ -9,7 +9,7 @@
     <fileProperty name="file" category="detail" tooltip="file-info"><![CDATA[diagram (1).svg]]></fileProperty>
     <urlProperty name="url" category="detail"><![CDATA[]]></urlProperty>
     <integerProperty name="width" category="detail" tooltip="width-info">80</integerProperty>
-    <markdownProperty name="description" category="detail"><![CDATA[Diagrama UML de procesos de venta en línea]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Diagrama BPMN de procesos de venta en línea]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
