@@ -9,11 +9,13 @@
       <trace target="7Ympck6myBJ3" traceType=":Proteus-author"/>
     </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[El empleado ingresa nuevos productos al inventario con todos los detalles necesarios.
-Flujo principal:
-El empleado selecciona la opción "Añadir Producto".
-El empleado ingresa los detalles del producto (nombre, descripción, cantidad, proveedor, precio).
-El sistema guarda el nuevo producto en el inventario.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[El sistema se comportará como se describe en el siguiente caso de uso cuando el empleado ingresa nuevos productos al inventario con todos los detalles necesarios.
+
+1. El empleado selecciona la opción "Añadir Producto".
+
+2. El empleado ingresa los detalles del producto (nombre, descripción, cantidad, proveedor, precio).
+
+3. El sistema guarda el nuevo producto en el inventario.]]></markdownProperty>
     <markdownProperty name="precondition" category="pre-post"><![CDATA[El usuario debe haber iniciado sesión]]></markdownProperty>
     <markdownProperty name="postcondition" category="pre-post"><![CDATA[El producto se añade exitosamente al inventario.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">high</enumProperty>
