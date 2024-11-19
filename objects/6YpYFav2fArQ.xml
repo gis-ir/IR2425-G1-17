@@ -14,9 +14,11 @@
       <trace target="3gVsQgzzPM3C" traceType=":Proteus-information-source"/>
       <trace target="4YzxYp43m4jA" traceType=":Proteus-information-source"/>
     </traceProperty>
-    <markdownProperty name="results" category="results"><![CDATA[Esta reunión se da ya pasada la exposición en clase del proyecto, lo que tomamos como raíz para comentarle a la dueña algunas de las áreas que se podrían digitalizar de su negocio para facilitarle el trabajo.
-Ella compartió con nosotros su opinión y nos dijo las que le parecían más útiles y menos útiles, descartando algunas de ellas que cubrian procesos más triviales para centrarnos en lo fundamental.
-Obteniendo como conclusión todos los objetivos que hemos planteado para el proyecto.]]></markdownProperty>
+    <markdownProperty name="results" category="results"><![CDATA[Esta reunión tuvo lugar tras la presentación inicial del proyecto, lo que nos permitió utilizar como base las áreas identificadas para digitalizar los procesos del negocio de "Cerezos". Durante la sesión, presentamos a Luz Ceballos las posibles áreas de mejora tecnológica y cómo estas podrían optimizar sus operaciones diarias.
+
+La propietaria compartió su perspectiva, destacando las funcionalidades que consideraba más útiles y descartando aquellas relacionadas con procesos triviales, para centrarse en lo fundamental. Este intercambio nos permitió ajustar el enfoque del proyecto, priorizando las necesidades críticas del negocio y alineando nuestras propuestas con sus expectativas.
+
+Como resultado de esta reunión, se definieron de manera conjunta los **objetivos clave del proyecto**, sentando las bases para las siguientes fases de diseño y desarrollo.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
