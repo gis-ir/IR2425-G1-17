@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="FFKsS2BwwiUW" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[specific data]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[dato específico]]></stringProperty>
     <markdownProperty name="description" category="general"><![CDATA[   - **ID del Cliente**: Identificación única.  
    - **Nombre Completo**: Nombre y apellidos del cliente.  
    - **Correo Electrónico**: Para recibir confirmaciones y notificaciones.  

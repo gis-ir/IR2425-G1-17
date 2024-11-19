@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="6qJZBnmgTSP7" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[specific data]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[dato específico]]></stringProperty>
     <markdownProperty name="description" category="general"><![CDATA[- **ID de Transacción**: Número único de identificación de la venta.  
    - **Fecha y Hora**: Momento en que se realizó la transacción.  
    - **Productos Vendidos**: Lista de productos incluidos en la venta.  

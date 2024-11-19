@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="8M6CPbaVzDcK" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[specific data]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[dato específico]]></stringProperty>
     <markdownProperty name="description" category="general"><![CDATA[- **ID de Producto**: Referencia única de cada producto en el inventario.  
    - **Stock Actual**: Cantidad en inventario en tiempo real.  
 

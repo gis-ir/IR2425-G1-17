@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="8NsdbHHUcVE8" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[specific data]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[dato específico]]></stringProperty>
     <markdownProperty name="description" category="general"><![CDATA[   - **ID de Pedido**: Identificación única del pedido al proveedor.  
    - **Proveedor Asociado**: Nombre e ID del proveedor.  
    - **Fecha del Pedido**: Fecha en que se realizó el pedido.  
