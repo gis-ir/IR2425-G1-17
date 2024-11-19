@@ -11,13 +11,9 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[El usuario visualiza una comparación de las ventas del mes actual con las ventas de los últimos tres meses.                                        
 
-**Flujo Principal:**
-                                                                                           
-**1.**El usuario genera el informe mensual de ventas.                                                        
-**2.**El sistema genera el informe mensual de ventas completo.                                
-**3.**El administrador revisa la comparación de de las ventas del mes actual con las de los ultimos 3 meses.]]></markdownProperty>
+]]></markdownProperty>
     <markdownProperty name="precondition" category="pre-post"><![CDATA[El administrador debe haber iniciado sesión.]]></markdownProperty>
-    <markdownProperty name="postcondition" category="pre-post"><![CDATA[]]></markdownProperty>
+    <markdownProperty name="postcondition" category="pre-post"><![CDATA[Ninguna.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
@@ -25,5 +21,9 @@
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
-  <children/>
+  <children>
+    <child id="3ZtYqjZzoB9Q"/>
+    <child id="4QNCDUP3pzrK"/>
+    <child id="7oHjzhkJCczS"/>
+  </children>
 </object>

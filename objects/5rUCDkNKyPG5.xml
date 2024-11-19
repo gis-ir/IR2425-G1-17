@@ -6,15 +6,27 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[El objetivo principal del proyecto es modernizar y optimizar la gestión interna de **"Cerezos"**, así como ampliar su presencia en el mercado mediante herramientas digitales. La implementación de estos sistemas permitirá a la tienda automatizar tareas repetitivas y manuales, lo que reducirá el riesgo de errores y mejorará la eficiencia operativa. Esto brindará al negocio una base tecnológica sólida para adaptarse a futuras demandas, ofreciendo una mayor rapidez y precisión en sus procesos.  
+    <markdownProperty name="text" category="detail"><![CDATA[El objetivo principal del proyecto es modernizar y transformar por completo la gestión interna de "Cerezos", así como potenciar su presencia en el mercado mediante la adopción de soluciones tecnológicas avanzadas.
 
-Con esta digitalización, **"Cerezos"** podrá enfocar sus recursos en mejorar la experiencia del cliente y expandir sus operaciones, aprovechando las ventajas de un mercado en línea sin las limitaciones actuales de la gestión manual.
+ Actualmente, la dependencia de métodos manuales está limitando la capacidad de la tienda para operar de manera eficiente y crecer, por lo que este proyecto busca posicionar a "Cerezos" como un negocio moderno, competitivo y orientado a las necesidades de sus clientes.
 
-- **Digitalizar los procesos de inventario** y la **gestión de pedidos** a proveedores.  
-- **Automatizar los pagos de nómina**, asegurando precisión y puntualidad.  
-- **Desarrollar una tienda en línea** para facilitar las ventas y llegar a un mercado más amplio.  
-- **Implementar un sistema de análisis de ventas** que respalde decisiones estratégicas.  
-- **Gestionar los horarios de los trabajadores**, optimizando la organización del personal.]]></markdownProperty>
+La implementación de herramientas digitales permitirá automatizar procesos esenciales, reduciendo significativamente el tiempo empleado en tareas repetitivas y eliminando riesgos asociados con errores humanos. Además, estas mejoras no solo optimizarán las operaciones internas, sino que también sentarán las bases para la expansión futura del negocio, asegurando que "Cerezos" esté preparado para enfrentar las demandas de un entorno comercial cada vez más dinámico y digital.
+
+Con un enfoque centrado en la innovación y la eficiencia, este proyecto no solo mejorará la estructura operativa de "Cerezos", sino que también abrirá nuevas oportunidades para incrementar la satisfacción del cliente, fidelizar a las compradoras existentes y atraer a nuevos públicos mediante una experiencia de compra mejorada.
+
+ Entre los objetivos específicos del proyecto se incluyen:
+
+- Digitalizar los procesos de inventario y pedidos a proveedores, lo que permitirá un mejor control de existencias, minimizará rupturas de stock y garantizará una reposición ágil y oportuna.
+
+- Automatizar los pagos de nómina, mejorando la precisión en los cálculos y asegurando que los empleados reciban sus pagos puntualmente.
+
+- Desarrollar una tienda en línea que permita a "Cerezos" ampliar su alcance, facilitando que clientas de cualquier ubicación puedan descubrir y adquirir sus productos sin necesidad de visitar la tienda física.
+
+- Implementar un sistema de análisis de ventas, que ofrezca información detallada sobre las preferencias de las clientas, los productos más vendidos y las tendencias de compra, para respaldar decisiones estratégicas basadas en datos.
+
+- Optimizar la gestión del personal mediante un sistema de horarios, asegurando una mejor distribución de recursos humanos para garantizar un servicio al cliente eficiente.
+
+En conjunto, este proyecto no solo permitirá a "Cerezos" mejorar sus operaciones actuales, sino que también le brindará las herramientas necesarias para competir en un mercado en constante evolución, consolidándose como una marca innovadora y orientada al futuro.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

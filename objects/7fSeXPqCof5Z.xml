@@ -16,7 +16,11 @@
       <trace target="7Ympck6myBJ3" traceType=":Proteus-information-source"/>
       <trace target="7Bsb7cYuXmpL" traceType=":Proteus-information-source"/>
     </traceProperty>
-    <markdownProperty name="results" category="results"><![CDATA[Profundizamos en los procesos de negocios actuales con el objetivo de realizar los modelos para dichos procesos. Cada participante expuso los procesos de negocio a implantar, recibiendo un feedback por parte del cliente.]]></markdownProperty>
+    <markdownProperty name="results" category="results"><![CDATA[En esta reunión, nos enfocamos en analizar y profundizar en los **procesos de negocio actuales** de "Cerezos" con el propósito de desarrollar modelos claros y estructurados para dichos procesos. Cada miembro del equipo presentó los **procesos de negocio a implantar**, destacando cómo estos abordarían las necesidades previamente identificadas.
+
+La propietaria, Luz Ceballos, proporcionó retroalimentación directa sobre cada propuesta, validando aquellas que consideraba alineadas con sus expectativas y sugiriendo ajustes para optimizar otros procesos. Este intercambio permitió priorizar y refinar las funcionalidades más relevantes para la digitalización de la tienda.
+
+Como resultado, obtuvimos una visión más precisa y consensuada de los procesos clave a modelar, asegurando que el diseño final refleje tanto las necesidades del negocio como las oportunidades de mejora tecnológica.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

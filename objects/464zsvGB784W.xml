@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="464zsvGB784W" classes="meeting" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Reunión 5]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="detail">2024-11-14</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <timeProperty name="time" category="detail">19:00:00</timeProperty>
+    <stringProperty name="place" category="detail"><![CDATA[Discord]]></stringProperty>
+    <traceProperty name="attenders" category="detail" acceptedTargets="stakeholder" traceType=":Proteus-information-source">
+      <trace target="4YzxYp43m4jA" traceType=":Proteus-information-source"/>
+      <trace target="4nSy5BkKt9Nh" traceType=":Proteus-information-source"/>
+      <trace target="4hq3iAr7S5Nz" traceType=":Proteus-information-source"/>
+      <trace target="3gVsQgzzPM3C" traceType=":Proteus-information-source"/>
+      <trace target="7Ympck6myBJ3" traceType=":Proteus-information-source"/>
+      <trace target="7Bsb7cYuXmpL" traceType=":Proteus-information-source"/>
+    </traceProperty>
+    <markdownProperty name="results" category="results"><![CDATA[En esta reunión, cada miembro del equipo presentó un **prototipo inicial de la interfaz de usuario**, contemplando dos perspectivas clave del sistema: la del **administrador** y la del **comprador**. El objetivo principal fue recopilar retroalimentación directa de la propietaria, Luz Ceballos, para guiar el desarrollo de la interfaz final.
+
+Los prototipos mostraron funcionalidades como la gestión de inventarios y horarios, ventas y ánalisis de ventas para el administrador, así como el flujo de navegación y compra para el comprador. Durante la sesión, la cliente evaluó los diseños, proporcionando comentarios valiosos sobre usabilidad, claridad de los elementos visuales y posibles mejoras en la disposición de las funciones.
+
+Gracias a esta retroalimentación, identificamos ajustes necesarios para optimizar la experiencia tanto del administrador como del comprador, estableciendo las bases para construir una interfaz que refleje las necesidades operativas del negocio y facilite la interacción del cliente con la tienda en línea.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

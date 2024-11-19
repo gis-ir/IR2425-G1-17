@@ -11,13 +11,9 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[El administrador solicita el informe mensual de ventas del último mes.                                          
 
-**Flujo principal:**                                                  
-**1.**El administrador solicita el informe mensual de ventas.                                        
-**2.**El sistema genera el informe completo.                                                                          
-**3.**El administrador revisa el informe mensual.
  ]]></markdownProperty>
     <markdownProperty name="precondition" category="pre-post"><![CDATA[El usuario debe haber iniciado sesión]]></markdownProperty>
-    <markdownProperty name="postcondition" category="pre-post"><![CDATA[]]></markdownProperty>
+    <markdownProperty name="postcondition" category="pre-post"><![CDATA[Ninguna.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">high</enumProperty>
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">medium</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
@@ -25,5 +21,9 @@
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
-  <children/>
+  <children>
+    <child id="6e2NnRwwxtpN"/>
+    <child id="3fcCHbALEp6W"/>
+    <child id="4WqMjRuewuGj"/>
+  </children>
 </object>
