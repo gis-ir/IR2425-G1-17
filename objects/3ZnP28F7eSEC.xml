@@ -1,14 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="3ZnP28F7eSEC" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[dato específico]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[ - **ID del Producto**: Identificador único.  
-   - **Nombre del Producto**: Título breve que describe el producto.  
-   - **Categoría**: Clasificación del producto (e.g., ropa, accesorios).  
-   - **Descripción**: Detalle del producto, especificando materiales, colores, tamaños.  
-   - **Precio**: Costo de venta del producto.  
-   - **Stock Actual**: Cantidad disponible en inventario.  
-   - **Imágenes**: Fotografías del producto para mostrar en línea y en tienda.  ]]></markdownProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Imágenes]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[Fotografías del producto para mostrar en línea y en tienda.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
