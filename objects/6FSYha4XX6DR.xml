@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="6FSYha4XX6DR" classes="organization" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Cerezos]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-11-20</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <stringProperty name="address" category="detail"><![CDATA[Av. 2 El Milagro C.C. Lago Mall Nivel Avenida, Maracaibo, Venezuela 4002]]></stringProperty>
+    <stringProperty name="phone-number" category="detail"><![CDATA[xxx xx xx xx]]></stringProperty>
+    <stringProperty name="email" category="detail"><![CDATA[correotienda]]></stringProperty>
+    <urlProperty name="web" category="detail"><![CDATA[no dispone de ella]]></urlProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

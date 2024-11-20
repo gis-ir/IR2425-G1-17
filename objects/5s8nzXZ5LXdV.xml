@@ -6,9 +6,27 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[El objetivo principal de este proyecto es **modernizar y transformar la gestión interna** de "Cerezos", mientras se potencia su presencia en el mercado mediante la adopción de soluciones tecnológicas avanzadas. Actualmente, la dependencia de métodos manuales limita la capacidad de la tienda para operar eficientemente y crecer. Este proyecto busca posicionar a "Cerezos" como un negocio moderno, competitivo y alineado con las necesidades de sus clientas.  
+    <markdownProperty name="text" category="detail"><![CDATA[El análisis del sistema para "Cerezos" tiene como objetivo evaluar y estructurar los procesos operativos del negocio, basado en el modelado definido previamente en el documento de especificación de requisitos. Este análisis ampliará y detallará los aspectos técnicos y lógicos necesarios para digitalizar la gestión de inventario, nómina, ventas y proveedores, sin abordar directamente su implementación.
 
-La implementación de herramientas digitales permitirá **automatizar procesos esenciales**, reduciendo el tiempo empleado en tareas repetitivas y eliminando riesgos de errores humanos. Estas mejoras no solo optimizarán las operaciones internas, sino que también sentarán las bases para la **expansión futura del negocio**, preparando a "Cerezos" para competir en un entorno comercial cada vez más dinámico y digital.]]></markdownProperty>
+
+Los objetivos específicos del alcance incluyen:
+
+
+
+
+-  Analizar los modelos de procesos actuales y a implantar para validar su viabilidad lógica.
+
+
+- Diseñar una arquitectura conceptual que soporte las funcionalidades propuestas, con diagramas y descripciones técnicas.
+
+
+- Identificar interacciones clave entre los componentes del sistema, asegurando que los procesos diseñados puedan ser llevados a cabo de manera eficiente en un entorno digital.
+
+
+- Proponer interfaces preliminares que conecten al sistema con los usuarios y otros servicios necesarios.
+
+
+El análisis no contemplará aspectos relacionados con la implementación física del sistema ni la selección de herramientas o tecnologías específicas. Se limitará a proveer una base lógica y técnica sobre la cual se pueda construir un sistema alineado con las necesidades del negocio.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

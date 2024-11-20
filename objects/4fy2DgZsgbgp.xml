@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="4fy2DgZsgbgp" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Participantes en el proyecto]]></stringProperty>
+    <markdownProperty name="comments" category="general"><![CDATA[- Miguel Mir
+- Ignacio Martínez
+- Miguel Regidor
+- Francisco Rodríguez
+- Juan José Cardesa Sosa]]></markdownProperty>
+  </properties>
+  <children>
+    <child id="7z6HdyC2eo7c"/>
+    <child id="6J2yBPrgDD3X"/>
+  </children>
+</object>
