@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="5QWfiPRkc4zN" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Precio Unitario y Total]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[Precio por unidad y monto total de la venta.]]></markdownProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Precio Total]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[Monto total de la venta.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
