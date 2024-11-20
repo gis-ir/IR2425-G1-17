@@ -10,8 +10,8 @@
     </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[En caso de insatisfacción o error en el pedido, el cliente puede iniciar una solicitud de devolución a través de la plataforma.]]></markdownProperty>
-    <markdownProperty name="precondition" category="pre-post"><![CDATA[Haber recibido el pedido]]></markdownProperty>
-    <markdownProperty name="postcondition" category="pre-post"><![CDATA[Entregar de nuevo el pedido]]></markdownProperty>
+    <markdownProperty name="precondition" category="pre-post"><![CDATA[Haber enviado el pedido de vuelta.]]></markdownProperty>
+    <markdownProperty name="postcondition" category="pre-post"><![CDATA[Recibir el dinero de la devolución.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
@@ -19,5 +19,13 @@
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
-  <children numbered="true"/>
+  <children numbered="true">
+    <child id="8Av9vzSPYizK"/>
+    <child id="5CWDaUxoBTnb"/>
+    <child id="TrEqQDEXNk6B"/>
+    <child id="hQC9fUEc74on"/>
+    <child id="6FoQ6TdPTU4m"/>
+    <child id="7WdzQYWkvZfC"/>
+    <child id="44RC6SgKQZEw"/>
+  </children>
 </object>

@@ -10,8 +10,8 @@
     </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[El cliente explora los productos disponibles en la plataforma en línea, filtrando y buscando artículos específicos.]]></markdownProperty>
-    <markdownProperty name="precondition" category="pre-post"><![CDATA[Entrar en la web]]></markdownProperty>
-    <markdownProperty name="postcondition" category="pre-post"><![CDATA[]]></markdownProperty>
+    <markdownProperty name="precondition" category="pre-post"><![CDATA[Entrar en la web.]]></markdownProperty>
+    <markdownProperty name="postcondition" category="pre-post"><![CDATA[Ninguna.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
@@ -19,5 +19,12 @@
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
-  <children/>
+  <children>
+    <child id="6rqbw2USyCeQ"/>
+    <child id="3MkdmzxB7DJR"/>
+    <child id="5bBmiatbiGrR"/>
+    <child id="h9R5Rza2gEov"/>
+    <child id="sciGCBwsdjKL"/>
+    <child id="4UcjfopNjXJD"/>
+  </children>
 </object>

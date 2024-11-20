@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="3K4WF6VcGrHV" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Use case step]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema verifica la disponibilidad del producto en inventario.   
+
+- Si está disponible, el sistema actualiza el carrito con el producto seleccionado y muestra un mensaje de confirmación.   
+- Si no está disponible, el sistema informa al cliente que no hay stock suficiente.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

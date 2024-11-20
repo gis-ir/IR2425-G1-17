@@ -10,8 +10,8 @@
     </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[Una vez decidido, el cliente procesa el pago utilizando la pasarela de pagos en línea. Este caso de uso está asociado con métodos de pago seguros, como tarjeta de crédito o servicios de pago digital.]]></markdownProperty>
-    <markdownProperty name="precondition" category="pre-post"><![CDATA[Tener los productos en el carrito y registrarse en la web]]></markdownProperty>
-    <markdownProperty name="postcondition" category="pre-post"><![CDATA[]]></markdownProperty>
+    <markdownProperty name="precondition" category="pre-post"><![CDATA[Tener los productos en el carrito y registrarse en la web.]]></markdownProperty>
+    <markdownProperty name="postcondition" category="pre-post"><![CDATA[Enviar el pedido al cliente.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
@@ -19,5 +19,13 @@
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
-  <children/>
+  <children>
+    <child id="5CSjUAf3wgkj"/>
+    <child id="8jNzAiLFr5av"/>
+    <child id="YyLeH8ZyftKT"/>
+    <child id="44ETnYA34gTQ"/>
+    <child id="3VYq8UDEB3hC"/>
+    <child id="7xhdUn8o9CBD"/>
+    <child id="4iCsYk382ibR"/>
+  </children>
 </object>
