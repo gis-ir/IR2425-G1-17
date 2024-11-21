@@ -10,7 +10,7 @@
     </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[El cliente puede revisar el estado de su pedido desde la plataforma, verificando si está en proceso, en envío, o listo para entrega.]]></markdownProperty>
-    <markdownProperty name="precondition" category="pre-post"><![CDATA[Haber realizado el pago,]]></markdownProperty>
+    <markdownProperty name="precondition" category="pre-post"><![CDATA[Haber realizado el pago.]]></markdownProperty>
     <markdownProperty name="postcondition" category="pre-post"><![CDATA[Ninguna.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
