@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="rZrhCFkDMQAo" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Historial de Pedidos]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[Lista de pedidos previos con opciones para ver detalles o solicitar una devolución.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

@@ -9,7 +9,7 @@
       <trace target="7Bsb7cYuXmpL" traceType=":Proteus-author"/>
     </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[El sistema debe almacenar datos detallados sobre cada producto, incluyendo nombre, categoría, descripción, precio, stock actual, código de producto, e imágenes.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[El sistema debe almacenar datos detallados sobre cada producto, incluyendo id de producto, nombre, descripción, precio e imágenes.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
