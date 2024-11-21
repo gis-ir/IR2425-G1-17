@@ -9,15 +9,20 @@
       <trace target="7Ympck6myBJ3" traceType=":Proteus-author"/>
     </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[El sistema se comportará como se describe en el siguiente caso de uso cuando ...]]></markdownProperty>
-    <markdownProperty name="precondition" category="pre-post"><![CDATA[]]></markdownProperty>
-    <markdownProperty name="postcondition" category="pre-post"><![CDATA[]]></markdownProperty>
-    <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
-    <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[El sistema se comportará como se describe en el siguiente caso de uso cuando el administrador solicita reportes sobre el inventario.
+]]></markdownProperty>
+    <markdownProperty name="precondition" category="pre-post"><![CDATA[El administrador debe haber iniciado sesión.]]></markdownProperty>
+    <markdownProperty name="postcondition" category="pre-post"><![CDATA[El reporte se genera y está disponible para revisión.]]></markdownProperty>
+    <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">medium</enumProperty>
+    <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">high</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
     <enumProperty name="stability" category="priority" choices="tbd low medium high">tbd</enumProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
-  <children/>
+  <children>
+    <child id="63W7bQHrGnwN"/>
+    <child id="EJtpNamqqyAv"/>
+    <child id="7KVyHmKM5TJ7"/>
+  </children>
 </object>
