@@ -2,7 +2,7 @@
 <object id="6oMcB7FgH9eK" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Use case step]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El empleado ingresa el criterio de búsqueda (nombre, código).]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El usuario ingresa el criterio de búsqueda (nombre, código).]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
