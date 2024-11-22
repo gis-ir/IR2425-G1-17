@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="8HRH5qZBxiAV" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Copia de Use case step]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema procesa el reembolso directamente al método de pago original o en efectivo, según corresponda.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

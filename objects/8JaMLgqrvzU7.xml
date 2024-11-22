@@ -18,8 +18,13 @@
       <trace target="7J75BX5dhmGb" traceType=":Proteus-dependency"/>
       <trace target="Hq6xitTbkGwE" traceType=":Proteus-dependency"/>
       <trace target="4NErKgyxWMSv" traceType=":Proteus-dependency"/>
-      <trace target="5dWdC2kGNsfb" traceType=":Proteus-dependency"/>
       <trace target="6F2WJjRQLv6P" traceType=":Proteus-dependency"/>
+      <trace target="8HSpURjswcXm" traceType=":Proteus-dependency"/>
+      <trace target="5sTtsaMwDUqq" traceType=":Proteus-dependency"/>
+      <trace target="5GVLULt44H5K" traceType=":Proteus-dependency"/>
+      <trace target="MN74dpFkYH4c" traceType=":Proteus-dependency"/>
+      <trace target="7wk58xNoa7f7" traceType=":Proteus-dependency"/>
+      <trace target="8ForjtSv5xS8" traceType=":Proteus-dependency"/>
     </traceProperty>
     <markdownProperty name="description" category="detail"><![CDATA[Este actor representa al usuario final del sistema que interactúa principalmente con las funciones orientadas a su experiencia laboral en la tienda.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>

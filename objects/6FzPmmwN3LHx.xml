@@ -21,7 +21,9 @@
       <trace target="sza2CZ4sdZqB" traceType=":Proteus-dependency"/>
       <trace target="6WJxjyeqqJZt" traceType=":Proteus-dependency"/>
       <trace target="76Y3V2uk2X3D" traceType=":Proteus-dependency"/>
-      <trace target="8HSpURjswcXm" traceType=":Proteus-dependency"/>
+      <trace target="5GVLULt44H5K" traceType=":Proteus-dependency"/>
+      <trace target="5rTLUnySz7cW" traceType=":Proteus-dependency"/>
+      <trace target="6EmhphVynWt5" traceType=":Proteus-dependency"/>
     </traceProperty>
     <markdownProperty name="description" category="detail"><![CDATA[Este actor representa al usuario con responsabilidades de supervisión y coordinación de los empleados y sus funciones en la tienda.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
