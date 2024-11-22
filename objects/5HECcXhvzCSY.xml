@@ -2,12 +2,14 @@
 <object id="5HECcXhvzCSY" classes="software-requirement nonfunctional-requirement" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
     <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[RQNF-]]></prefix><number>009</number><suffix><![CDATA[]]></suffix></codeProperty>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Requisito no funcional]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Conexión con sistemas externos]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-30</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
-    <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
+      <trace target="4hq3iAr7S5Nz" traceType=":Proteus-author"/>
+    </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[El sistema deberá _[descripción de alguna característica de calidad del sistema]_.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[El sistema deberá ser capaz de integrarse con bancos para la automatización de pagos mediante protocolos estándar como ISO 20022 o APIs bancarias de otro tipo.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>

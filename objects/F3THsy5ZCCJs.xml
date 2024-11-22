@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="F3THsy5ZCCJs" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Número de cuenta del empleado]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[Cuenta bancaria a la que se le efectuará el pago mes a mes.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
