@@ -2,7 +2,7 @@
 <object id="6DgT7vfc7JfP" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[paso de caso de uso]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El cliente solicita la devolución desde la tienda en línea o presenta el producto en la tienda física.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El cliente envía o  presenta el producto en la tienda física.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

@@ -2,7 +2,7 @@
 <object id="5cadCWmF9sh5" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[paso de caso de uso]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El sistema valida la elegibilidad del producto según las políticas de devolución.  
+    <markdownProperty name="description" category="general"><![CDATA[El empleado valida la elegibilidad del producto según las políticas de devolución.  
  - Si la devolución es válida, pasa al siguiente paso.  
  - Si no es válida, el cliente es informado del motivo.  ]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>

@@ -15,7 +15,6 @@
       <trace target="49LFMMtZg92x" traceType=":Proteus-dependency"/>
       <trace target="6uYQND2iq4DU" traceType=":Proteus-dependency"/>
       <trace target="3Nyw53k7MbE7" traceType=":Proteus-dependency"/>
-      <trace target="yH3Ms3ADE9ae" traceType=":Proteus-dependency"/>
       <trace target="7SfBAQdM8ery" traceType=":Proteus-dependency"/>
     </traceProperty>
     <markdownProperty name="description" category="detail"><![CDATA[Este actor representa al **usuario externo** que interactúa con la tienda en línea para **comprar productos** y **gestionar sus pedidos**. Su rol es fundamental para la expansión del negocio en el mercado digital y para facilitar la experiencia de compra en línea.]]></markdownProperty>
