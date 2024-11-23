@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="b9fnXVFohqme" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Use case step]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[5]]></stringProperty>
     <markdownProperty name="description" category="general"><![CDATA[Redactar y enviar el mensaje.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

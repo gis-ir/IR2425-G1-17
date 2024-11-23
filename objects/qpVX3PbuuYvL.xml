@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="qpVX3PbuuYvL" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Use case step]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[4]]></stringProperty>
     <markdownProperty name="description" category="general"><![CDATA[El sistema exporta el informe revisado.
 ]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="7PWoqLuPCfFe" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[paso de caso de uso]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[5]]></stringProperty>
     <markdownProperty name="description" category="general"><![CDATA[El empleado procesa el reembolso]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

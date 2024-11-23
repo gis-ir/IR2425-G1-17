@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="7xhdUn8o9CBD" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Use case step]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[6]]></stringProperty>
     <markdownProperty name="description" category="general"><![CDATA[El sistema verifica los datos de pago con la pasarela de pago.  
 
 - Si el pago es exitoso, se genera el pedido con un número único y se actualiza el inventario.  

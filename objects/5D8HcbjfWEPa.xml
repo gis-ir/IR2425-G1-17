@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="5D8HcbjfWEPa" classes="software-requirement functional-requirement" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
-    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[RQF-]]></prefix><number>016</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[RQF-]]></prefix><number>010</number><suffix><![CDATA[]]></suffix></codeProperty>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Facilidad de uso]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-11-22</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>

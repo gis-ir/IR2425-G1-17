@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="3B7ig7m5hduR" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Copia de Use case step]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[3]]></stringProperty>
     <markdownProperty name="description" category="general"><![CDATA[El sistema verifica si el producto cumple con las políticas de devolución (e.g., dentro del plazo de 30 días, sin señales de uso).  
 
 - Si cumple, el cliente puede iniciar la solicitud de devolución.  

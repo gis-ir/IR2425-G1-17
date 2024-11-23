@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="6Ht593rfNPQe" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[paso de caso de uso]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[3]]></stringProperty>
     <markdownProperty name="description" category="general"><![CDATA[Ingresa los detalles necesarios:  
 - Para nuevos productos: ID, nombre, precio, stock inicial.  
 - Para actualizaciones: Ajustes en el stock actual o información adicional (e.g., imágenes, descripción).]]></markdownProperty>

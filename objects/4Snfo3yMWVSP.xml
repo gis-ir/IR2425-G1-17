@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="4Snfo3yMWVSP" classes="software-requirement use-case" acceptedChildren="use-case-step" acceptedParents=":Proteus-any">
   <properties>
-    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[CU-]]></prefix><number>010</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[CU-]]></prefix><number>024</number><suffix><![CDATA[]]></suffix></codeProperty>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Asignar Turnos]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-11-04</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
