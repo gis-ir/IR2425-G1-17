@@ -2,7 +2,7 @@
 <object id="56CGAguKM66N" classes="attribute" acceptedChildren=":Proteus-none" acceptedParents="model-element">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[motivo]]></stringProperty>
-    <stringProperty name="type" category="general"><![CDATA[string]]></stringProperty>
+    <stringProperty name="type" category="general"><![CDATA[String]]></stringProperty>
     <markdownProperty name="description" category="detail"><![CDATA[Razón de la solicitud.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

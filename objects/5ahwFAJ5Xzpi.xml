@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="5ahwFAJ5Xzpi" classes="model-element entity-class" acceptedChildren="attribute" acceptedParents=":Proteus-any">
   <properties>
-    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[ENT-]]></prefix><number>018</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[ENT-]]></prefix><number>019</number><suffix><![CDATA[]]></suffix></codeProperty>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Nomina]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-11-23</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
@@ -20,6 +20,7 @@
     <child id="6EMdvuM9NQVV"/>
     <child id="6AqN3bCGp5X6"/>
     <child id="6wBnANJnib3d"/>
+    <child id="6SpusDLhnt8S"/>
     <child id="7xjDJK4fzdWi"/>
   </children>
 </object>

@@ -10,14 +10,15 @@
     </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <booleanProperty name="is-abstract" category="detail" tooltip="is-abstract">false</booleanProperty>
-    <traceProperty name="superclass" category="detail" acceptedTargets="entity-class" traceType=":Proteus-dependency" maxTargetsNumber="1"/>
+    <traceProperty name="superclass" category="detail" acceptedTargets="entity-class" traceType=":Proteus-dependency" maxTargetsNumber="1">
+      <trace target="6PG3PLRGwoyw" traceType=":Proteus-dependency"/>
+    </traceProperty>
     <markdownProperty name="description" category="detail"><![CDATA[Representa a los clientes que realizan pedidos en el sistema.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children>
-    <child id="5FaurCRC9Gm7"/>
-    <child id="7VHFXVQYZmUe"/>
+    <child id="CmT5EAwuEgtf"/>
     <child id="5fz8ZETDAGfW"/>
     <child id="4MBVbzwminKK"/>
   </children>

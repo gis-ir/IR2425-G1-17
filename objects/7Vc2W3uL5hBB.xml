@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="7Vc2W3uL5hBB" classes="attribute" acceptedChildren=":Proteus-none" acceptedParents="model-element">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[fechaRevision]]></stringProperty>
+    <stringProperty name="type" category="general"><![CDATA[Date]]></stringProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Fecha en la que se realizó la revisión.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

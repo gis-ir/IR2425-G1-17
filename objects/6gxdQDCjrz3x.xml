@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="6gxdQDCjrz3x" classes="attribute" acceptedChildren=":Proteus-none" acceptedParents="model-element">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[rangoPrecios]]></stringProperty>
+    <stringProperty name="type" category="general"><![CDATA[List<Double>]]></stringProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[El intervalo de precios en el que se va a llevar a cabo el análisis.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
