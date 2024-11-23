@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="3QcYRCTAbvbg" classes="attribute" acceptedChildren=":Proteus-none" acceptedParents="model-element">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[día]]></stringProperty>
+    <stringProperty name="type" category="general"><![CDATA[Date]]></stringProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Día en el que el empleado está disponible.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="7ZfPkkZFsbeh" classes="attribute" acceptedChildren=":Proteus-none" acceptedParents="model-element">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[horaInicio]]></stringProperty>
+    <stringProperty name="type" category="general"><![CDATA[Time]]></stringProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Hora en la que comienza el turno.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

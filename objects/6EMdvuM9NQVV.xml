@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="6EMdvuM9NQVV" classes="attribute" acceptedChildren=":Proteus-none" acceptedParents="model-element">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[salarioBruto]]></stringProperty>
+    <stringProperty name="type" category="general"><![CDATA[Double]]></stringProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Salario bruto antes de deducciones.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
