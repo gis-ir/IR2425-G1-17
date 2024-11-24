@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="6pGLzVvukqnL" classes="mockup" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+<object id="AyEQyNRJqbod" classes="model-element mockup" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
-    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[MOCK-]]></prefix><number>026</number><suffix><![CDATA[]]></suffix></codeProperty>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Pantalla de informe de horas descargado]]></stringProperty>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[MOCK-]]></prefix><number>044</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Registrar Asistencia]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-11-24</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[Esta pantalla solo muestra una notificación de confirmación de descarga del documento de horas.]]></markdownProperty>
-    <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[Screenshot from 2024-11-24 11-04-07.png]]></fileProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[En esta pantalla el empleado debe registrar la asistencia de cada turno que trabaja, añadiendo los parámetros correspondientes a dicho turno y por último pulsar sobre el botón de registrar.]]></markdownProperty>
+    <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[Captura de pantalla 2024-11-24 190101.png]]></fileProperty>
     <integerProperty name="width" category="detail" tooltip="width-info">98</integerProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
