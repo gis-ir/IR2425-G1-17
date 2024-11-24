@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="43MG6gTaJriv" classes="mockup" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+<object id="7EA83qYeRuDT" classes="mockup" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
-    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[MOCK-]]></prefix><number>041</number><suffix><![CDATA[]]></suffix></codeProperty>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Mostar productos]]></stringProperty>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[MOCK-]]></prefix><number>048</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Catálogo con productos añadidos]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-11-24</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[Aquí el empleado ve todos los productos que están publicados, tiene la posibilidad de añadir o actualizar nuevos productos]]></markdownProperty>
-    <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[Frame 45 (1) (1).png]]></fileProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Pantalla que contiene todos los productos del catálogo, incluyendo los nuevos]]></markdownProperty>
+    <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[Frame 48 (1).png]]></fileProperty>
     <integerProperty name="width" category="detail" tooltip="width-info">98</integerProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement model-element" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
