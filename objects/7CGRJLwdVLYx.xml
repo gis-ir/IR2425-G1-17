@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="7CGRJLwdVLYx" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Interfaces de pago de nóminas]]></stringProperty>
+    <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children>
+    <child id="5i2azSbka9ap"/>
+    <child id="mt4B6wgPZ3hG"/>
+    <child id="3FRnW2xiETYa"/>
+    <child id="5zjzc6tCdUhu"/>
+    <child id="4SvAhhYCg6EV"/>
+    <child id="7UppXvq8N5N4"/>
+    <child id="kohEFYxBChqT"/>
+    <child id="3jHEC9TNCmfq"/>
+    <child id="6wHZfVjdFMbE"/>
+    <child id="43gLCuqWn5o5"/>
+    <child id="4c3ecavULFdV"/>
+    <child id="5pboEuhDFjJY"/>
+  </children>
+</object>
