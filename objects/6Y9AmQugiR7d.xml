@@ -9,9 +9,9 @@
       <trace target="4hq3iAr7S5Nz" traceType=":Proteus-author"/>
     </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[El servidor donde se aloje el sistema deberá ser compatible con sistemas opertivos como Linux o Windows Server.]]></markdownProperty>
-    <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
-    <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[El servidor donde se aloje el sistema deberá ser compatible con sistemas operativos como Linux o Windows Server.]]></markdownProperty>
+    <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">high</enumProperty>
+    <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">high</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
     <enumProperty name="stability" category="priority" choices="tbd low medium high">tbd</enumProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency"/>
