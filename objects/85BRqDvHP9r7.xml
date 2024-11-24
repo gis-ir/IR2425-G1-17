@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="85BRqDvHP9r7" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Interfaces de gestión de inventario]]></stringProperty>
+    <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children>
+    <child id="7b8PFyHEyr3v"/>
+    <child id="7ct7oc9JaREF"/>
+    <child id="FTcWHCcQzJQy"/>
+    <child id="6ZYiUfad6Lt4"/>
+    <child id="LkhrxGtHj8i9"/>
+    <child id="6SDM4SxP5bDi"/>
+    <child id="UbWnqAbsekdV"/>
+    <child id="3ve2W9ggqDPj"/>
+    <child id="3ALK2oh5mqeq"/>
+  </children>
+</object>
