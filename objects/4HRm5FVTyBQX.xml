@@ -5,8 +5,6 @@
     <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
   </properties>
   <children>
-    <child id="3xbHvgGRi5a4"/>
-    <child id="vjAEAFCD8YvV"/>
     <child id="5LkTvdUV8FfV"/>
     <child id="3WKAymi6iUM7"/>
     <child id="7nRer3QssxVb"/>
@@ -14,5 +12,8 @@
     <child id="3aqUJAnnsAcw"/>
     <child id="5YDvZhL7hJd2"/>
     <child id="523Xgy8SJH9p"/>
+    <child id="3xbHvgGRi5a4"/>
+    <child id="vjAEAFCD8YvV"/>
+    <child id="7wpfJbitD5HL"/>
   </children>
 </object>
