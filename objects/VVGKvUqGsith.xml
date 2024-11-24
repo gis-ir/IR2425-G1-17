@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="VVGKvUqGsith" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section" selectedCategory="detail">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Paragraph]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-11-24</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[- Pantalla de pago de nóminas: Esta es la pantalla principal del apartado de administrador de "Pago de Nóminas", en esta pantalla tenemos dos opciones: 
+
+	- Descargar el informe de las nóminas de todos los empleados.
+	- Pasar a revisión para indicar si el informe tiene los datos correctos o no.
+
+- Pantalla de revisión de pago: Esta es la pantalla de Revisión del informe de nóminas de los empleados y tiene dos opciones:
+
+	- Proceder con el pago: El administrador indica que todos los datos del informe están correctos y procede con el pago.
+	- Adjuntar errores: En caso de haber encontrado algún error el administrador seleccionará esta opción.
+
+- Pantalla de cuentas bancarias: En la pantalla de Cuentas bancarias el administrador puede decidir si pagar con una cuenta ya guardada o añadir una nueva cuenta.
+- Pantalla de selección de cuenta bancaria: En esta pantalla encontramos todas las cuentas que han sido registradas y podemos seleccionar la que deseemos para efectuar el pago.
+- Pantalla de selección de cuenta bancaria I, II, III: Es la misma pantalla de selección de cuenta bancaria en función de la cuenta que selecciones.
+- Pantalla de pago realizado: Esta es la última pantalla del sistema de pago de nóminas, a la que se llega una vez se ha efectuado correctamente el pago y presenta dos opciones:
+
+	- Descargar resguardo: Para descargar el resguardo de pago.
+	- Volver a la pantalla principal: Para volver a la pantalla de opciones del administrador.
+
+- Pantalla para añadir cuenta: Esta es la pantalla de Añadir cuenta a la que se llega si se desee pagar con una cuenta bancaria no registrada, en esta el administrador tendría que añadir el número de cuenta y el nombre del titular.
+- Pantalla de resguardo de pago descargado: Esta pantalla informa de que el resguardo de pago se ha descargado con éxito.
+- Pantalla de informe de nómina descargado: Esta pantalla informa de que el informe de nóminas se ha descargado con éxito.
+- Pantalla para adjuntar errores: Esta pantalla es la Adjuntar Errores en la que el administrador indica los campos que ha encontrado erróneos y el valor corregido.]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="J74R588sgDpR" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Descripción interfaces de inventario]]></stringProperty>
+    <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
