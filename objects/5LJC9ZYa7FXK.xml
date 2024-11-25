@@ -2,7 +2,7 @@
 <object id="5LJC9ZYa7FXK" classes="meeting" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Reunión 1]]></stringProperty>
-    <dateProperty name=":Proteus-date" category="detail">2024-09-19</dateProperty>
+    <dateProperty name=":Proteus-date" category="detail">2024-09-26</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
