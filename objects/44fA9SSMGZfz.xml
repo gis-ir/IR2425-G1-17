@@ -4,5 +4,15 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Interfaces de empleado de gestión de inventario]]></stringProperty>
     <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
   </properties>
-  <children/>
+  <children>
+    <child id="5dCRZPYumPFA"/>
+    <child id="7k39TNauDdMh"/>
+    <child id="4ybdbkpXgMh6"/>
+    <child id="3t6kquVC8otK"/>
+    <child id="4YnDykK9WBGq"/>
+    <child id="3pqUg7pBU643"/>
+    <child id="6Ym2xp2MYNu6"/>
+    <child id="3dzJcX6u74cU"/>
+    <child id="8KnrkmgmH2mN"/>
+  </children>
 </object>
