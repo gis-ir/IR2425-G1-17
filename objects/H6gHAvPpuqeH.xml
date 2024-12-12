@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="H6gHAvPpuqeH" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Sistema de Gestión de Horarios]]></stringProperty>
+    <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children>
+    <child id="Tv9xamuNuYzi"/>
+    <child id="5vmomzWTFYKJ"/>
+    <child id="6i7x6s4uFxwG"/>
+    <child id="8C4u45EhCozu"/>
+    <child id="3zHRYvyAPJt8"/>
+    <child id="TKfpxU3a2Krt"/>
+  </children>
+</object>
