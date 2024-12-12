@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="4KoxGZT83KZ6" classes="general-traceable-object glossary-item" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[OAuth]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-12-11</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <stringProperty name="plural-form" category="detail"><![CDATA[]]></stringProperty>
+    <stringProperty name="synonyms" category="detail"><![CDATA[]]></stringProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Open authorization, es un marco de autorización ampliamente adoptado que te permite dar tu consentimiento para que una aplicación interactúe con otra en
+tu nombre sin tener que revelar tu contraseña.]]></markdownProperty>
+    <fileProperty name="image" category="detail" tooltip="file-info"><![CDATA[]]></fileProperty>
+    <integerProperty name="width" category="detail" tooltip="width-info">50</integerProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
