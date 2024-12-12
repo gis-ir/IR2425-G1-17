@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="625eFvMJtakC" classes="parameter" acceptedChildren=":Proteus-none" acceptedParents="system-operation">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Clientes]]></stringProperty>
+    <stringProperty name="type" category="general"><![CDATA[List<Cliente>]]></stringProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Lista con los clientes]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
