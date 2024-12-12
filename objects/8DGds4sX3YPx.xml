@@ -22,7 +22,39 @@ Para registrarse como nuevo cliente, el usuario debe hacer clic en la pestaña *
 ---  
 
 ### **Consultar Pedidos Realizados:**  
-El cliente puede acceder al historial de sus pedidos entrando en su perfil tras iniciar sesión. Desde la sección **"Mis Pedidos"**, podrá visualizar una lista de todos los pedidos realizados, organizados por fecha. Al seleccionar un pedido específico, el sistema mostrará los detalles completos, incluyendo **productos comprados**, **estado del pedido** (e.g., "En preparación", "Enviado").]]></markdownProperty>
+El cliente puede acceder al historial de sus pedidos entrando en su perfil tras iniciar sesión. Desde la sección **"Mis Pedidos"**, podrá visualizar una lista de todos los pedidos realizados, organizados por fecha. Al seleccionar un pedido específico, el sistema mostrará los detalles completos, incluyendo **productos comprados**, **estado del pedido** (e.g., "En preparación", "Enviado").
+
+---
+
+###**Asignar Turnos:**
+El administrador puede asignar un turno a un empleado entrando en la sección de **"Horarios"** una vez a iniciado sesión. Hecho esto al seleccionar la opción de **"Asignar Turno"** se de dará la opción de seleccionar el empleado, al cual se le va a asignar el turno. Una vez hecho esto se rellenaran los parámetros del formulario del turno y se asignará volviendo a la pantalla de horarios.
+
+---
+
+###**Descargar Informe de horas (Administrador):**
+El administrador puede descargar el informe de horas de un empleado entrando en la sección de **"Horarios"** una vez a iniciado sesión. Hecho esto al seleccionar la opción de **"Descargar informe"** aparecerá una lista de los empleados y podrá elegir de que empleado descargar el informe. Una vez hecho esto aparecerá una notificación que si cierras vuelves a la pantalla de horarios.
+
+---
+
+###**Registrar asistencia:**
+El empleado puede registrar su asistencia a cada turno entrando en la sección de **"Horarios"** una vez a iniciado sesión. Hecho esto al seleccionar la opción de **"Registrar Asistencia"** el sistema mostrará un formulario con los parametros del turno a rellenar. Por último, pulsando el botón de **"Registrar"** el turno se registrará volviendo a la pantalla de horarios.
+
+---
+
+###**Bloquear fecha:**
+El empleado puede bloquear una fecha entrando en la sección de **"Horarios"** una vez a iniciado sesión. Hecho esto al seleccionar la opción de **"Bloquear Fecha"** el sistema mostrará un formulario con los parametros de la fecha a bloquear. Por último, pulsando el botón de **"Bloquear"** la fecha se bloqueará volviendo a la pantalla de horarios.
+
+---
+
+###**Configurar disponibilidad:**
+El empleado puede configurar su disponibilidad entrando en la sección de **"Horarios"** una vez a iniciado sesión. Hecho esto al seleccionar la opción de **"Configurar Disponibilidad"** el sistema mostrará un formulario con los parametros de la disponibilidad. Por último, pulsando el botón de **"Registrar"** la fecha añadida como disponible se registrará volviendo a la pantalla de horarios.
+
+---
+
+###**Descargar Informe de horas (Administrador):**
+El empleado puede descargar su informe de horas entrando en la sección de **"Horarios"** una vez a iniciado sesión. Hecho esto al seleccionar la opción de **"Descargar Informe"** el sistema mostrará una notificación de descarga exitosa. Por último, cerrando la notificación volverás a la pantalla de horarios.
+
+]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
