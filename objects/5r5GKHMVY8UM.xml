@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="7c5oCYfA5uep" classes="general-traceable-object figure" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+<object id="5r5GKHMVY8UM" classes="general-traceable-object figure" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Diagrama de Consulta de Inventario (Administrador)]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Diagrama de Consulta de Inventario (Empleado)]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-12-13</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <fileProperty name="file" category="detail" tooltip="file-info"><![CDATA[Screenshot 2024-12-13 085744.png]]></fileProperty>
+    <fileProperty name="file" category="detail" tooltip="file-info"><![CDATA[Screenshot 2024-12-13 093830.png]]></fileProperty>
     <urlProperty name="url" category="detail"><![CDATA[]]></urlProperty>
     <integerProperty name="width" category="detail" tooltip="width-info">50</integerProperty>
-    <markdownProperty name="description" category="detail"><![CDATA[Consultar Inventario ]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Consultar Inventario]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
