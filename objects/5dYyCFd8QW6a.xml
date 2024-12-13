@@ -4,5 +4,9 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Sistema de Pago de Nóminas]]></stringProperty>
     <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
   </properties>
-  <children/>
+  <children>
+    <child id="6nSMXpAwHt7Z"/>
+    <child id="3s2ZkPX8szLS"/>
+    <child id="3jsR4xUHzgo4"/>
+  </children>
 </object>
