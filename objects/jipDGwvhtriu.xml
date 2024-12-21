@@ -6,19 +6,106 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[- **Pantalla de inicio**: Página principal con la que se encuentra el usuario.  
-- **Preguntas Frecuentes**: Aquí se encuentran posibles preguntas que pueden tener nuestros clientes para que las consulten.  
-- **Acerca de**: Aquí se encuentra información de nuestra tienda que le puede resultar interesante al cliente.  
-- **Envios y devoluciones**: Aquí tienen los clientes toda la información necesaria acerca de los envíos y devoluciones.  
-- **Información de la cuenta**: Información relevante acerca del cliente.  
-- **Navegación en la tienda**: Contiene los productos de la tienda.  
-- **Información del producto**: El usuario ve información detallada del producto seleccionado, tiene la opción de seleccionar la talla, cantidad a comprar para así luego añadirlo al carrito.  
-- **Carrito de Compra**: Toda la información de la cesta del usuario.  
-- **Resumen del pedido**: Rellenar los datos de tu cuenta y el resumen del pedido.  
-- **Métodos de envío**: Información acerca del envío.  
-- **Proceso de Pago**: Ejemplo de la zona de Pago.  
-- **Confirmación de Pago**: Se guarda toda la información del cliente.  
-- **Confirmación del pedido**: Una vez hemos pulsado el botón de comprar, obtenemos toda la información de nuestro pedido.]]></markdownProperty>
+    <markdownProperty name="text" category="detail"><![CDATA[#### **1. Pantalla de Inicio** 
+Página principal con la que se encuentra el usuario al acceder a la tienda en línea.  
+- Contiene una barra de navegación para acceder a las diferentes secciones como el catálogo, preguntas frecuentes y cuenta personal.  
+- Incluye un buscador para facilitar la exploración del catálogo.  
+
+---  
+
+#### **2. Preguntas Frecuentes** 
+Sección dedicada a responder dudas comunes de los clientes.  
+- Clasifica las preguntas en categorías, como **Pedidos**, **Devoluciones**, **Envíos** y **Métodos de Pago**.  
+
+---  
+
+#### **3. Acerca de** 
+Espacio donde los usuarios pueden encontrar información sobre la tienda.  
+- Detalla la historia de "Cerezos", su misión, visión y valores.  
+- Incluye datos de contacto de la tienda física, horarios y dirección.  
+
+---  
+
+#### **4. Envíos y Devoluciones** 
+Ofrece toda la información relacionada con los envíos y las políticas de devolución.  
+- Describe los plazos estimados de entrega según la ubicación.  
+- Detalla los pasos necesarios para iniciar una devolución y las condiciones aplicables (plazo, estado del producto).  
+
+---  
+
+#### **5. Información de la Cuenta** 
+Permite a los clientes visualizar y editar sus datos personales.  
+- Incluye información como nombre, dirección, correo electrónico.  
+- Visualiza las compras anteriores.  
+
+---  
+
+#### **6. Navegación en la Tienda** 
+Catálogo general de los productos disponibles en la tienda.  
+- Ofrece filtros por **categoría**, **precio**, **color** y **talla**.  
+- Vista en cuadrícula o lista para explorar los productos.  
+- Permite ordenar los resultados por **popularidad**, **precio** o **novedades**.  
+
+---  
+
+#### **7. Información del Producto** 
+Sección con información detallada de un producto seleccionado.  
+- Muestra nombre, precio, descripción, disponibilidad en stock.  
+- Opciones interactivas:  
+ - Seleccionar la talla o la cantidad.  
+ - Añadir al carrito directamente.  
+- Imágenes en alta calidad con vista ampliada.  
+
+---  
+
+#### **8. Carrito de Compra** 
+Resumen de los productos seleccionados por el cliente para su compra.  
+- Muestra la cantidad, precio unitario y subtotal por producto.  
+- Opciones para:  
+ - Eliminar un producto.  
+ - Actualizar cantidades.  
+ - Continuar explorando o proceder al resumen del pedido.  
+
+---  
+
+#### **9. Resumen del Pedido** 
+Página que permite al cliente revisar la información antes de confirmar la compra.  
+- Incluye una lista de los productos del carrito, con total final incluyendo impuestos y costos de envío.  
+- Opción para rellenar o confirmar los datos de envío y facturación del cliente.  
+- Botón para continuar con el proceso de pago.  
+
+---  
+
+#### **10. Métodos de Envío** 
+Información detallada sobre las opciones de envío disponibles.  
+- El cliente selecciona el tipo de envío preferido (estándar, rápido).  
+- Muestra los costos asociados y el tiempo estimado para la entrega.  
+- Sección para introducir instrucciones especiales para el envío.  
+
+---  
+
+#### **11. Proceso de Pago** 
+Pantalla dedicada a la introducción de los datos de pago.  
+- Opciones de pago disponibles: **Tarjeta de crédito/débito**, **PayPal**, o **Transferencia bancaria**.  
+- Validación de la información ingresada antes de proceder con el pago.  
+- Opción para guardar los datos de pago para compras futuras.  
+
+---  
+
+#### **12. Confirmación de Pago** 
+Pantalla que confirma que el proceso de pago se ha completado exitosamente.  
+- Muestra un resumen del pedido, número de confirmación y detalles del pago realizado.  
+- Enlace para seguir explorando el catálogo o ver el estado del pedido.  
+
+---  
+
+#### **13. Confirmación del Pedido** 
+Pantalla final que ofrece un resumen detallado del pedido realizado.  
+- Muestra:  
+ - Productos comprados.  
+ - Dirección de envío.  
+ - Fecha estimada de entrega.  
+- Incluye un número de pedido único para referencia y seguimiento.  ]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
